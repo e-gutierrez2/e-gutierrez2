@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/2/folders/1XohKgI9TX5mypqhObK1aF3n_sacxCAom)
 
-- ⚡ Fun fact: **I always cheer up the team for projects, trying to be better and always learning new things!**
+- ⚡ Fun fact: **Sometimes I have troubles in code because I forgot the ";"**
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
