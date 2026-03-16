@@ -5,8 +5,6 @@
 
 - 📫 How to reach me: **enzogutijim290806@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/2/folders/1XohKgI9TX5mypqhObK1aF3n_sacxCAom)
-
 - ⚡ Fun fact: **Sometimes I have troubles in code because I forgot the ";"**
 
 <h3 align="left">Social Media:</h3>
